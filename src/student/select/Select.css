@@ -1,0 +1,78 @@
+.header {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.to-home {
+    height: 40px;
+    width: 80px;
+    background-color: none;
+}
+
+.bg-img-stu-select {
+    width: 100%;
+    max-width: 390px;
+    height: 100%;
+    background-image: url('https://github.com/wwan13/sick-call/assets/64270501/79aa72f2-c0c2-45f9-8d48-a1574ec21661');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.hospital-type-section {
+    width: 100%;
+    height: 130px;
+}
+
+.section-div {
+    width: 100%;
+    height: 5px;
+    background-color: #f3f5f6;
+}
+
+.hospital-btn-wrap {
+    width: 95%;
+    height: 100px;
+    margin: auto;
+    margin-top: 15px;
+    /* background-color: aliceblue; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.hospital-type-btn {
+    width: 40%;
+    height: 30px;
+    background-color: white;
+    border: #2b657B 2px solid;
+    padding: 0px 20px 0px 20px;
+    border-radius: 10px;
+    font-weight: 600;
+    color: #2b657B;
+    margin: 0px 10px 0px 10px;
+}
+
+.hospital-type-btn-select {
+    width: 40%;
+    height: 30px;
+    background-color: #2b657B;
+    border: #2b657B 2px solid;
+    padding: 0px 20px 0px 20px;
+    border-radius: 10px;
+    font-weight: 600;
+    color: #ffffff;
+    margin: 0px 10px 0px 10px;
+}
+
+.hos-info-wrap {
+    width: 95%;
+    height: 470px;
+    overflow-y: scroll;
+    /* background-color: aliceblue; */
+}

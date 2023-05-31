@@ -1,0 +1,17 @@
+.bg-img-main {
+    width: 100%;
+    max-width: 390px;
+    height: 100%;
+    background-image: url('https://github.com/wwan13/sick-call/assets/64270501/5deec722-990c-4d23-8701-9225fec5c94b');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sickcall-btn {
+    width: 80px;
+    height: 80px;
+    background-color: none;
+    margin-top: 155px;
+}

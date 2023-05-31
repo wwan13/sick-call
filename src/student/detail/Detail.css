@@ -1,0 +1,42 @@
+.detail-wrap {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    border-radius: 30px;
+    /* background-color: aliceblue; */
+    box-shadow: 2px 4px 14px rgba(1, 1, 1, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.call-btn {
+    width: 250px;
+    height: 50px;
+    font-weight: 600;
+    line-height: 50px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #2b657B;
+    color: white;
+    border: 0px;
+    margin-top: 50px;
+}
+
+.detail-hos {
+    margin: 0px;
+    color: #515151;
+}
+
+.detail-hos-name {
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.detail-hos-address {
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 20px;
+}
