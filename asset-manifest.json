@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sick-call/static/css/main.a31cea11.css",
+    "main.js": "/sick-call/static/js/main.aaf26185.js",
+    "static/js/787.91b4058f.chunk.js": "/sick-call/static/js/787.91b4058f.chunk.js",
+    "index.html": "/sick-call/index.html",
+    "main.a31cea11.css.map": "/sick-call/static/css/main.a31cea11.css.map",
+    "main.aaf26185.js.map": "/sick-call/static/js/main.aaf26185.js.map",
+    "787.91b4058f.chunk.js.map": "/sick-call/static/js/787.91b4058f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a31cea11.css",
+    "static/js/main.aaf26185.js"
+  ]
+}
